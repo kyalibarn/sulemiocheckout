@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c5x813tmne367"
+path="res://.godot/imported/Suletta - Takashi Ohmama.mp3-5fed42183fab142667376600b98fc89a.mp3str"
+
+[deps]
+
+source_file="res://images/Suletta - Takashi Ohmama.mp3"
+dest_files=["res://.godot/imported/Suletta - Takashi Ohmama.mp3-5fed42183fab142667376600b98fc89a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
